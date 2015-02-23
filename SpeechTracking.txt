@@ -1,5 +1,9 @@
 
-Please feel free to add addtions.  Generally speaking I need to do research on how process vocals (singers) to detect speech and align it with lyrics (Voice to Lyrics/Text Syncrhonization).  In the end will need to be done in real time, but for now I need to get an idea of what would be required to implement something like this.  So, I have two categories: algorithms/academic papers and software.  The software is any existing implementations (possibly of algorithms sited in the papers).
+Please feel free to add addtions.  Generally speaking I need to do research on how process vocals (singers) to 
+detect speech and align it with lyrics (Voice to Lyrics/Text Syncrhonization).  In the end will need to be done 
+in real time, but for now I need to get an idea of what would be required to implement something like this.  
+So, I have two categories: algorithms/academic papers and software.  The software is any existing 
+implementations (possibly of algorithms sited in the papers).
 
 ==========================================
 Speech Recognition ALgorithms
