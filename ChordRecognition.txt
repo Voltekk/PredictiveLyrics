@@ -1,0 +1,11 @@
+Please feel free to add addtions.  Generally speaking I need to do research on how instruments to detect notes and chords and event the results real time (or at least near real time).  So, I have two categories: algorithms/academic papers and software.  The software is any existing implementations (possibly of algorithms sited in the papers).
+
+
+==========================================
+Chord Detection Algorithms
+==========================================
+
+
+==========================================
+Chord Detection Software
+==========================================
