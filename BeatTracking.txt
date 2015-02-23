@@ -1,4 +1,7 @@
-Please feel free to add addtions.  Generally speaking I need to do research on how track a drummers beat to determine the deviation from the intented bpm real time (or at least near real time).  So, I have two categories: algorithms/academic papers and software.  The software is any existing implementations (possibly of algorithms sited in the papers).
+Please feel free to add addtions.  Generally speaking I need to do research on how track a <br>
+drummers beat to determine the deviation from the intented bpm real time (or at least near real time).  <br> 
+So, I have two categories: algorithms/academic papers and software.  The software is any existing <br>
+implementations (possibly of algorithms sited in the papers).
 
 
 ==========================================
