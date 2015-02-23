@@ -13,3 +13,6 @@ Speech Recognition ALgorithms
 ==========================================
 Speech Recognition Software
 ==========================================
+
+Standard for JavaScritp API for Speech - Access 2015 Feb 23 - https://dvcs.w3.org/hg/speech-api/raw-file/tip/speechapi.html
+CMU Sphinx - Accessed 2015 Feb 23 - http://cmusphinx.sourceforge.net/
